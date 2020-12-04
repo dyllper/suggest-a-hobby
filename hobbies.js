@@ -12,10 +12,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Acting"
   },
   {
-     "name":"Amateur radio",
-     "url":"https://wikipedia.org/wiki/Amateur_radio"
-  },
-  {
      "name":"Animation",
      "url":"https://wikipedia.org/wiki/Animation"
   },
@@ -36,15 +32,11 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Baton_twirling"
   },
   {
-     "name":"Binge-watching",
-     "url":"https://wikipedia.org/wiki/Binge-watching"
-  },
-  {
      "name":"Blogging",
      "url":"https://wikipedia.org/wiki/Blogging"
   },
   {
-     "name":"Board/tabletop games",
+     "name":"Board games",
      "url":"https://wikipedia.org/wiki/Board_game"
   },
   {
@@ -68,10 +60,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Breadmaking"
   },
   {
-     "name":"Building",
-     "url":"https://wikipedia.org/wiki/Building"
-  },
-  {
      "name":"Bullet journaling",
      "url":"https://wikipedia.org/wiki/Bullet_Journal"
   },
@@ -92,10 +80,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Candy_making"
   },
   {
-     "name":"Car fixing & building",
-     "url":"https://wikipedia.org/wiki/Car"
-  },
-  {
      "name":"Card games",
      "url":"https://wikipedia.org/wiki/Card_games"
   },
@@ -112,20 +96,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Chess"
   },
   {
-     "name":"Cleaning",
-     "url":"https://wikipedia.org/wiki/Cleaning"
-  },
-  {
      "name":"Clothesmaking",
      "url":"https://wikipedia.org/wiki/Clothing"
   },
   {
      "name":"Coffee roasting",
      "url":"https://wikipedia.org/wiki/Home_roasting_coffee"
-  },
-  {
-     "name":"Collecting",
-     "url":"https://wikipedia.org/wiki/Collecting"
   },
   {
      "name":"Coloring",
@@ -150,10 +126,6 @@ const hobbies = [
   {
      "name":"Couponing",
      "url":"https://wikipedia.org/wiki/Couponing"
-  },
-  {
-     "name":"Craft",
-     "url":"https://wikipedia.org/wiki/Craft"
   },
   {
      "name":"Creative writing",
@@ -196,14 +168,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Disc-jockey"
   },
   {
-     "name":"Do it yourself",
-     "url":"https://wikipedia.org/wiki/Do_it_yourself"
-  },
-  {
-     "name":"Drama",
-     "url":"https://wikipedia.org/wiki/Drama"
-  },
-  {
      "name":"Drawing",
      "url":"https://wikipedia.org/wiki/Drawing"
   },
@@ -212,32 +176,16 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Mixed_drink"
   },
   {
-     "name":"Drinking",
-     "url":"https://wikipedia.org/wiki/Drinking"
-  },
-  {
      "name":"Electronic games",
      "url":"https://wikipedia.org/wiki/Electronic_games"
-  },
-  {
-     "name":"Electronics",
-     "url":"https://wikipedia.org/wiki/Electronics"
   },
   {
      "name":"Embroidery",
      "url":"https://wikipedia.org/wiki/Embroidery"
   },
   {
-     "name":"Experimenting",
-     "url":"https://wikipedia.org/wiki/Experimenting"
-  },
-  {
      "name":"Fantasy sports",
      "url":"https://wikipedia.org/wiki/Fantasy_sport"
-  },
-  {
-     "name":"Fashion",
-     "url":"https://wikipedia.org/wiki/Fashion"
   },
   {
      "name":"Fashion design",
@@ -272,11 +220,11 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Games"
   },
   {
-     "name":"tabletop games",
+     "name":"Tabletop games",
      "url":"https://wikipedia.org/wiki/Tabletop_game"
   },
   {
-     "name":"role-playing games",
+     "name":"Role-playing games",
      "url":"https://wikipedia.org/wiki/Role-playing_game"
   },
   {
@@ -296,16 +244,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Graphic_design"
   },
   {
-     "name":"Gunsmithing",
-     "url":"https://wikipedia.org/wiki/Gunsmithing"
-  },
-  {
      "name":"Gymnastics",
      "url":"https://wikipedia.org/wiki/Gymnastics"
-  },
-  {
-     "name":"Hacking",
-     "url":"https://wikipedia.org/wiki/Hacker"
   },
   {
      "name":"Herp keeping",
@@ -326,10 +266,6 @@ const hobbies = [
   {
      "name":"Hula hooping",
      "url":"https://wikipedia.org/wiki/Hula_hooping"
-  },
-  {
-     "name":"Humor",
-     "url":"https://wikipedia.org/wiki/Humor"
   },
   {
      "name":"Hydroponics",
@@ -362,14 +298,6 @@ const hobbies = [
   {
      "name":"Karate",
      "url":"https://wikipedia.org/wiki/Karate"
-  },
-  {
-     "name":"Kendama",
-     "url":"https://wikipedia.org/wiki/Kendama"
-  },
-  {
-     "name":"Knife making",
-     "url":"https://wikipedia.org/wiki/Knife_making"
   },
   {
      "name":"Knitting",
@@ -408,28 +336,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Podcasts"
   },
   {
-     "name":"Lock picking",
-     "url":"https://wikipedia.org/wiki/Lock_picking"
-  },
-  {
      "name":"Machining",
      "url":"https://wikipedia.org/wiki/Machining"
   },
   {
-     "name":"Macrame",
-     "url":"https://wikipedia.org/wiki/Macrame"
-  },
-  {
      "name":"Magic",
      "url":"https://wikipedia.org/wiki/Magic_(illusion)"
-  },
-  {
-     "name":"Makeup",
-     "url":"https://wikipedia.org/wiki/Makeup"
-  },
-  {
-     "name":"Mazes (indoor/outdoor)",
-     "url":"https://wikipedia.org/wiki/Maze"
   },
   {
      "name":"Metalworking",
@@ -480,14 +392,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Pilates"
   },
   {
-     "name":"Playing musical instruments",
-     "url":"https://wikipedia.org/wiki/Music"
-  },
-  {
-     "name":"Poi",
-     "url":"https://wikipedia.org/wiki/Poi_(performance_art)"
-  },
-  {
      "name":"Pole dancing",
      "url":"https://wikipedia.org/wiki/Pole_dancing"
   },
@@ -498,10 +402,6 @@ const hobbies = [
   {
      "name":"Powerlifting",
      "url":"https://wikipedia.org/wiki/Powerlifting"
-  },
-  {
-     "name":"Practical jokes",
-     "url":"https://wikipedia.org/wiki/Practical_jokes"
   },
   {
      "name":"Pressed flower craft",
@@ -588,20 +488,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Skipping_rope"
   },
   {
-     "name":"Slot car",
-     "url":"https://wikipedia.org/wiki/Slot_car"
-  },
-  {
      "name":"Soapmaking",
      "url":"https://wikipedia.org/wiki/Soapmaking"
-  },
-  {
-     "name":"Social media",
-     "url":"https://wikipedia.org/wiki/Social_media"
-  },
-  {
-     "name":"Spreadsheets",
-     "url":"https://wikipedia.org/wiki/Spreadsheets"
   },
   {
      "name":"Stand-up comedy",
@@ -612,7 +500,7 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Stamp_collecting"
   },
   {
-     "name":"Table tennis playing",
+     "name":"Table tennis",
      "url":"https://wikipedia.org/wiki/Table_tennis"
   },
   {
@@ -632,32 +520,20 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Video_editing"
   },
   {
-     "name":"Video game developing",
+     "name":"Video game development",
      "url":"https://wikipedia.org/wiki/Video_game_development"
   },
   {
-     "name":"Video gaming",
+     "name":"Video games",
      "url":"https://wikipedia.org/wiki/Video_gaming"
   },
   {
-     "name":"Video making",
+     "name":"Videography",
      "url":"https://wikipedia.org/wiki/Videography"
   },
   {
      "name":"VR Gaming",
      "url":"https://wikipedia.org/wiki/Virtual_Reality"
-  },
-  {
-     "name":"Watching movies",
-     "url":"https://wikipedia.org/wiki/Movies"
-  },
-  {
-     "name":"Watching television",
-     "url":"https://wikipedia.org/wiki/Television_program"
-  },
-  {
-     "name":"Waxing",
-     "url":"https://wikipedia.org/wiki/Waxing"
   },
   {
      "name":"Weaving",
@@ -678,10 +554,6 @@ const hobbies = [
   {
      "name":"Whittling",
      "url":"https://wikipedia.org/wiki/Whittling"
-  },
-  {
-     "name":"Wikipedia editing",
-     "url":"https://wikipedia.org/wiki/Help:Editing"
   },
   {
      "name":"Winemaking",
@@ -796,10 +668,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Butterfly_watching"
   },
   {
-     "name":"Bus riding",
-     "url":"https://wikipedia.org/wiki/Bus"
-  },
-  {
      "name":"Camping",
      "url":"https://wikipedia.org/wiki/Camping"
   },
@@ -810,10 +678,6 @@ const hobbies = [
   {
      "name":"Canyoning",
      "url":"https://wikipedia.org/wiki/Canyoning"
-  },
-  {
-     "name":"Car riding",
-     "url":"https://wikipedia.org/wiki/Car"
   },
   {
      "name":"Caving",
@@ -830,10 +694,6 @@ const hobbies = [
   {
      "name":"Dowsing",
      "url":"https://wikipedia.org/wiki/Dowsing"
-  },
-  {
-     "name":"Driving",
-     "url":"https://wikipedia.org/wiki/Driving"
   },
   {
      "name":"Farming",
@@ -856,7 +716,7 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Aviation"
   },
   {
-     "name":"Flying disc",
+     "name":"Frisbee",
      "url":"https://wikipedia.org/wiki/Flying_disc"
   },
   {
@@ -888,10 +748,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Gold_prospecting"
   },
   {
-     "name":"Graffiti",
-     "url":"https://wikipedia.org/wiki/Graffiti"
-  },
-  {
      "name":"Handball",
      "url":"https://wikipedia.org/wiki/Handball"
   },
@@ -904,20 +760,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Herping"
   },
   {
-     "name":"High-power rocketry",
-     "url":"https://wikipedia.org/wiki/High-power_rocketry"
-  },
-  {
      "name":"Hiking",
      "url":"https://wikipedia.org/wiki/Hiking"
-  },
-  {
-     "name":"Hobby horsing",
-     "url":"https://wikipedia.org/wiki/Hobby_horse"
-  },
-  {
-     "name":"Hobby tunneling",
-     "url":"https://wikipedia.org/wiki/Hobby_tunneling"
   },
   {
      "name":"Hooping",
@@ -1008,7 +852,7 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Mushroom_hunting"
   },
   {
-     "name":"mycology",
+     "name":"Mycology",
      "url":"https://wikipedia.org/wiki/Mycology"
   },
   {
@@ -1032,10 +876,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Parkour"
   },
   {
-     "name":"Photography",
-     "url":"https://wikipedia.org/wiki/Photography"
-  },
-  {
      "name":"Podcast hosting",
      "url":"https://wikipedia.org/wiki/Podcast"
   },
@@ -1044,20 +884,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Polo"
   },
   {
-     "name":"Public transport riding",
-     "url":"https://wikipedia.org/wiki/Public_transport"
-  },
-  {
-     "name":"Radio-controlled model playing",
-     "url":"https://wikipedia.org/wiki/Radio-controlled_model"
-  },
-  {
      "name":"Rafting",
      "url":"https://wikipedia.org/wiki/Rafting"
-  },
-  {
-     "name":"Railway journeys",
-     "url":"https://wikipedia.org/wiki/Railway"
   },
   {
      "name":"Rappelling",
@@ -1104,16 +932,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Sculling"
   },
   {
-     "name":"rowing",
+     "name":"Rowing",
      "url":"https://wikipedia.org/wiki/Rowing_(sport)"
-  },
-  {
-     "name":"Shooting",
-     "url":"https://wikipedia.org/wiki/Shooting"
-  },
-  {
-     "name":"Shopping",
-     "url":"https://wikipedia.org/wiki/Shopping"
   },
   {
      "name":"Shuffleboard",
@@ -1160,10 +980,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Stone_skipping"
   },
   {
-     "name":"Sun bathing",
-     "url":"https://wikipedia.org/wiki/Sun_bathing"
-  },
-  {
      "name":"Surfing",
      "url":"https://wikipedia.org/wiki/Surfing"
   },
@@ -1200,20 +1016,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Tourism"
   },
   {
-     "name":"Trade fair visiting",
-     "url":"https://wikipedia.org/wiki/Trade_fair"
-  },
-  {
-     "name":"Travel",
-     "url":"https://wikipedia.org/wiki/Travel"
-  },
-  {
      "name":"Urban exploration",
      "url":"https://wikipedia.org/wiki/Urban_exploration"
-  },
-  {
-     "name":"Vacation",
-     "url":"https://wikipedia.org/wiki/Vacation"
   },
   {
      "name":"Vegetable farming",
@@ -1224,76 +1028,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Vehicle_restoration"
   },
   {
-     "name":"Videography",
-     "url":"https://wikipedia.org/wiki/Videography"
-  },
-  {
      "name":"Walking",
      "url":"https://wikipedia.org/wiki/Walking"
   },
   {
      "name":"Water sports",
      "url":"https://wikipedia.org/wiki/Water_sports"
-  },
-  {
-     "name":"Astronomy",
-     "url":"https://wikipedia.org/wiki/Astronomy"
-  },
-  {
-     "name":"Biology",
-     "url":"https://wikipedia.org/wiki/Biology"
-  },
-  {
-     "name":"Chemistry",
-     "url":"https://wikipedia.org/wiki/Chemistry"
-  },
-  {
-     "name":"Electrochemistry",
-     "url":"https://wikipedia.org/wiki/Electrochemistry"
-  },
-  {
-     "name":"Geography",
-     "url":"https://wikipedia.org/wiki/Geography"
-  },
-  {
-     "name":"History",
-     "url":"https://wikipedia.org/wiki/History"
-  },
-  {
-     "name":"Mathematics",
-     "url":"https://wikipedia.org/wiki/Mathematics"
-  },
-  {
-     "name":"Medical science",
-     "url":"https://wikipedia.org/wiki/Medical_science"
-  },
-  {
-     "name":"Physics",
-     "url":"https://wikipedia.org/wiki/Physics"
-  },
-  {
-     "name":"Psychology",
-     "url":"https://wikipedia.org/wiki/Psychology"
-  },
-  {
-     "name":"Railway studies",
-     "url":"https://wikipedia.org/wiki/Rail_transport"
-  },
-  {
-     "name":"Science and technology studies",
-     "url":"https://wikipedia.org/wiki/Science_and_technology_studies"
-  },
-  {
-     "name":"Social studies",
-     "url":"https://wikipedia.org/wiki/Social_studies"
-  },
-  {
-     "name":"Sports science",
-     "url":"https://wikipedia.org/wiki/Sports_science"
-  },
-  {
-     "name":"Action figure",
-     "url":"https://wikipedia.org/wiki/Action_figure"
   },
   {
      "name":"Antiquing",
@@ -1332,18 +1072,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Deltiology"
   },
   {
-     "name":"Die-cast toy",
-     "url":"https://wikipedia.org/wiki/Die-cast_toy"
-  },
-  {
-     "name":"Digital hoarding",
-     "url":"https://wikipedia.org/wiki/Digital_hoarding"
-  },
-  {
-     "name":"Dolls",
-     "url":"https://wikipedia.org/wiki/Dolls"
-  },
-  {
      "name":"Element collecting",
      "url":"https://wikipedia.org/wiki/Element_collecting"
   },
@@ -1356,10 +1084,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Telephone_card"
   },
   {
-     "name":"Knife collecting",
-     "url":"https://wikipedia.org/wiki/Knife_collecting"
-  },
-  {
      "name":"Lotology",
      "url":"https://wikipedia.org/wiki/Lotology"
   },
@@ -1368,20 +1092,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Film_memorabilia"
   },
   {
-     "name":"Fingerprint collecting",
-     "url":"https://wikipedia.org/wiki/Fingerprint"
-  },
-  {
-     "name":"Perfume",
-     "url":"https://wikipedia.org/wiki/Perfume"
-  },
-  {
      "name":"Phillumeny",
      "url":"https://wikipedia.org/wiki/Phillumeny"
-  },
-  {
-     "name":"Radio-controlled model collecting",
-     "url":"https://wikipedia.org/wiki/Radio-controlled_model"
   },
   {
      "name":"Rail transport modelling",
@@ -1400,22 +1112,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Patch_collecting"
   },
   {
-     "name":"Shoes",
-     "url":"https://wikipedia.org/wiki/Shoes"
-  },
-  {
-     "name":"Slot car",
-     "url":"https://wikipedia.org/wiki/Slot_car"
-  },
-  {
-     "name":"Sports memorabilia",
-     "url":"https://wikipedia.org/wiki/Sports_memorabilia"
-  },
-  {
-     "name":"Stamp collecting",
-     "url":"https://wikipedia.org/wiki/Stamp_collecting"
-  },
-  {
      "name":"Stuffed toy collecting",
      "url":"https://wikipedia.org/wiki/Stuffed_toy"
   },
@@ -1428,40 +1124,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Ticket_(admission)"
   },
   {
-     "name":"Toys",
-     "url":"https://wikipedia.org/wiki/Toys"
-  },
-  {
      "name":"Transit map collecting",
      "url":"https://wikipedia.org/wiki/Transit_map"
   },
   {
      "name":"Video game collecting",
      "url":"https://wikipedia.org/wiki/Video_game_collecting"
-  },
-  {
-     "name":"Vintage cars",
-     "url":"https://wikipedia.org/wiki/Vintage_cars"
-  },
-  {
-     "name":"Vintage clothing",
-     "url":"https://wikipedia.org/wiki/Vintage_clothing"
-  },
-  {
-     "name":"Vinyl Records",
-     "url":"https://wikipedia.org/wiki/Vinyl_Records"
-  },
-  {
-     "name":"Antiquities",
-     "url":"https://wikipedia.org/wiki/Antiquities"
-  },
-  {
-     "name":"Auto audiophilia",
-     "url":"https://wikipedia.org/wiki/Auto_audiophilia"
-  },
-  {
-     "name":"Flower collecting and pressing",
-     "url":"https://wikipedia.org/wiki/Pressed_flower_craft"
   },
   {
      "name":"Fossil hunting",
@@ -1500,36 +1168,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Stone_collecting"
   },
   {
-     "name":"Animal fancy",
-     "url":"https://wikipedia.org/wiki/Animal_fancy"
-  },
-  {
-     "name":"Axe throwing",
-     "url":"https://wikipedia.org/wiki/Axe_throwing"
-  },
-  {
      "name":"Backgammon",
      "url":"https://wikipedia.org/wiki/Backgammon"
   },
   {
-     "name":"Badminton",
-     "url":"https://wikipedia.org/wiki/Badminton"
-  },
-  {
-     "name":"Baton twirling",
-     "url":"https://wikipedia.org/wiki/Baton_twirling"
-  },
-  {
      "name":"Beauty pageants",
      "url":"https://wikipedia.org/wiki/Beauty_pageant"
-  },
-  {
-     "name":"Billiards",
-     "url":"https://wikipedia.org/wiki/Cue_sports"
-  },
-  {
-     "name":"Bowling",
-     "url":"https://wikipedia.org/wiki/Bowling"
   },
   {
      "name":"Boxing",
@@ -1548,14 +1192,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Cheerleading"
   },
   {
-     "name":"Chess",
-     "url":"https://wikipedia.org/wiki/Chess"
-  },
-  {
-     "name":"Color guard",
-     "url":"https://wikipedia.org/wiki/Color_guard_(flag_spinning)"
-  },
-  {
      "name":"Cribbage",
      "url":"https://wikipedia.org/wiki/Cribbage"
   },
@@ -1572,16 +1208,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Darts"
   },
   {
-     "name":"Debate",
-     "url":"https://wikipedia.org/wiki/Debate"
-  },
-  {
      "name":"Dominoes",
      "url":"https://wikipedia.org/wiki/Dominoes"
-  },
-  {
-     "name":"Eating",
-     "url":"https://wikipedia.org/wiki/Competitive_eating"
   },
   {
      "name":"Esports",
@@ -1596,16 +1224,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Go_(game)"
   },
   {
-     "name":"Gymnastics",
-     "url":"https://wikipedia.org/wiki/Gymnastics"
-  },
-  {
      "name":"Ice hockey",
      "url":"https://wikipedia.org/wiki/Ice_hockey"
-  },
-  {
-     "name":"Ice skating",
-     "url":"https://wikipedia.org/wiki/Ice_skating"
   },
   {
      "name":"Judo",
@@ -1628,10 +1248,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Laser_tag"
   },
   {
-     "name":"Longboarding",
-     "url":"https://wikipedia.org/wiki/Longboarding"
-  },
-  {
      "name":"Mahjong",
      "url":"https://wikipedia.org/wiki/Mahjong"
   },
@@ -1640,24 +1256,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Marbles"
   },
   {
-     "name":"Martial arts",
-     "url":"https://wikipedia.org/wiki/Martial_arts"
-  },
-  {
-     "name":"Model United Nations",
-     "url":"https://wikipedia.org/wiki/Model_United_Nations"
-  },
-  {
      "name":"Poker",
      "url":"https://wikipedia.org/wiki/Poker"
-  },
-  {
-     "name":"Pole dancing",
-     "url":"https://wikipedia.org/wiki/Pole_dancing"
-  },
-  {
-     "name":"Radio-controlled model playing",
-     "url":"https://wikipedia.org/wiki/Radio-controlled_model"
   },
   {
      "name":"Pool",
@@ -1688,32 +1288,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Table_football"
   },
   {
-     "name":"Table tennis",
-     "url":"https://wikipedia.org/wiki/Table_tennis"
-  },
-  {
      "name":"Volleyball",
      "url":"https://wikipedia.org/wiki/Volleyball"
   },
   {
-     "name":"Weightlifting",
-     "url":"https://wikipedia.org/wiki/Weight_training"
-  },
-  {
-     "name":"VR Gaming",
-     "url":"https://wikipedia.org/wiki/Virtual_Reality"
-  },
-  {
      "name":"Wrestling",
      "url":"https://wikipedia.org/wiki/Wrestling"
-  },
-  {
-     "name":"Airsoft",
-     "url":"https://wikipedia.org/wiki/Airsoft"
-  },
-  {
-     "name":"Archery",
-     "url":"https://wikipedia.org/wiki/Archery"
   },
   {
      "name":"Association football",
@@ -1726,10 +1306,6 @@ const hobbies = [
   {
      "name":"Auto racing",
      "url":"https://wikipedia.org/wiki/Auto_racing"
-  },
-  {
-     "name":"Baseball",
-     "url":"https://wikipedia.org/wiki/Baseball"
   },
   {
      "name":"Beach volleyball",
@@ -1756,10 +1332,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Croquet"
   },
   {
-     "name":"Cycling",
-     "url":"https://wikipedia.org/wiki/Cycling"
-  },
-  {
      "name":"Disc golf",
      "url":"https://wikipedia.org/wiki/Disc_golf"
   },
@@ -1772,20 +1344,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Equestrianism"
   },
   {
-     "name":"Exhibition drill",
-     "url":"https://wikipedia.org/wiki/Exhibition_drill"
-  },
-  {
      "name":"Field hockey",
      "url":"https://wikipedia.org/wiki/Field_hockey"
   },
   {
      "name":"Figure skating",
      "url":"https://wikipedia.org/wiki/Figure_skating"
-  },
-  {
-     "name":"Fishing",
-     "url":"https://wikipedia.org/wiki/Fishing"
   },
   {
      "name":"Footbag",
@@ -1800,14 +1364,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Golf"
   },
   {
-     "name":"Handball",
-     "url":"https://wikipedia.org/wiki/Handball"
-  },
-  {
-     "name":"Horseback riding",
-     "url":"https://wikipedia.org/wiki/Horseback_riding"
-  },
-  {
      "name":"Horseshoes",
      "url":"https://wikipedia.org/wiki/Horseshoes"
   },
@@ -1816,40 +1372,12 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Iceboat"
   },
   {
-     "name":"Jukskei",
-     "url":"https://wikipedia.org/wiki/Jukskei"
-  },
-  {
      "name":"Kart racing",
      "url":"https://wikipedia.org/wiki/Kart_racing"
   },
   {
-     "name":"Knife throwing",
-     "url":"https://wikipedia.org/wiki/Knife_throwing"
-  },
-  {
-     "name":"Lacrosse",
-     "url":"https://wikipedia.org/wiki/Lacrosse"
-  },
-  {
-     "name":"Longboarding",
-     "url":"https://wikipedia.org/wiki/Longboarding"
-  },
-  {
      "name":"Long-distance running",
      "url":"https://wikipedia.org/wiki/Long-distance_running"
-  },
-  {
-     "name":"Marching band",
-     "url":"https://wikipedia.org/wiki/Marching_band"
-  },
-  {
-     "name":"Model aircraft",
-     "url":"https://wikipedia.org/wiki/Model_aircraft"
-  },
-  {
-     "name":"Orienteering",
-     "url":"https://wikipedia.org/wiki/Orienteering"
   },
   {
      "name":"Pickleball",
@@ -1872,10 +1400,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Radio-controlled_car"
   },
   {
-     "name":"Radio-controlled model playing",
-     "url":"https://wikipedia.org/wiki/Radio-controlled_model"
-  },
-  {
      "name":"Roller derby",
      "url":"https://wikipedia.org/wiki/Roller_derby"
   },
@@ -1884,24 +1408,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Rugby_league"
   },
   {
-     "name":"Sculling",
-     "url":"https://wikipedia.org/wiki/Sculling"
-  },
-  {
-     "name":"rowing",
+     "name":"Rowing",
      "url":"https://wikipedia.org/wiki/Rowing"
-  },
-  {
-     "name":"Shooting sport",
-     "url":"https://wikipedia.org/wiki/Shooting_sport"
-  },
-  {
-     "name":"Skateboarding",
-     "url":"https://wikipedia.org/wiki/Skateboarding"
-  },
-  {
-     "name":"Skiing",
-     "url":"https://wikipedia.org/wiki/Skiing"
   },
   {
      "name":"Sled dog racing",
@@ -1920,22 +1428,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Squash_(sport)"
   },
   {
-     "name":"Surfing",
-     "url":"https://wikipedia.org/wiki/Surfing"
-  },
-  {
-     "name":"Swimming",
-     "url":"https://wikipedia.org/wiki/Human_swimming"
-  },
-  {
-     "name":"Table tennis",
-     "url":"https://wikipedia.org/wiki/Table_tennis"
-  },
-  {
-     "name":"Tennis",
-     "url":"https://wikipedia.org/wiki/Tennis"
-  },
-  {
      "name":"Tennis polo",
      "url":"https://wikipedia.org/wiki/Tennis_polo"
   },
@@ -1948,14 +1440,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Tour_skating"
   },
   {
-     "name":"Tourism",
-     "url":"https://wikipedia.org/wiki/Tourism"
-  },
-  {
-     "name":"Trapshooting",
-     "url":"https://wikipedia.org/wiki/Trapshooting"
-  },
-  {
      "name":"Triathlon",
      "url":"https://wikipedia.org/wiki/Triathlon"
   },
@@ -1964,24 +1448,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Ultimate_(sport)"
   },
   {
-     "name":"Volleyball",
-     "url":"https://wikipedia.org/wiki/Volleyball"
-  },
-  {
      "name":"Water polo",
      "url":"https://wikipedia.org/wiki/Water_polo"
-  },
-  {
-     "name":"Audiophile",
-     "url":"https://wikipedia.org/wiki/Audiophile"
-  },
-  {
-     "name":"Fishkeeping",
-     "url":"https://wikipedia.org/wiki/Fishkeeping"
-  },
-  {
-     "name":"Learning",
-     "url":"https://wikipedia.org/wiki/Learning"
   },
   {
      "name":"Meditation",
@@ -1990,14 +1458,6 @@ const hobbies = [
   {
      "name":"Microscopy",
      "url":"https://wikipedia.org/wiki/Microscopy"
-  },
-  {
-     "name":"Reading",
-     "url":"https://wikipedia.org/wiki/Reading"
-  },
-  {
-     "name":"Research",
-     "url":"https://wikipedia.org/wiki/Research"
   },
   {
      "name":"Shortwave listening",
@@ -2016,40 +1476,8 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Benchmarking_(hobby)"
   },
   {
-     "name":"Birdwatching",
-     "url":"https://wikipedia.org/wiki/Birdwatching"
-  },
-  {
      "name":"Bus spotting",
      "url":"https://wikipedia.org/wiki/Bus_spotting"
-  },
-  {
-     "name":"Geocaching",
-     "url":"https://wikipedia.org/wiki/Geocaching"
-  },
-  {
-     "name":"Gongoozling",
-     "url":"https://wikipedia.org/wiki/Gongoozler"
-  },
-  {
-     "name":"Herping",
-     "url":"https://wikipedia.org/wiki/Herping"
-  },
-  {
-     "name":"Hiking",
-     "url":"https://wikipedia.org/wiki/Hiking"
-  },
-  {
-     "name":"backpacking",
-     "url":"https://wikipedia.org/wiki/Backpacking_(wilderness)"
-  },
-  {
-     "name":"Meteorology",
-     "url":"https://wikipedia.org/wiki/Meteorology"
-  },
-  {
-     "name":"Photography",
-     "url":"https://wikipedia.org/wiki/Photography"
   },
   {
      "name":"Satellite watching",
@@ -2062,5 +1490,5 @@ const hobbies = [
   {
      "name":"Whale watching",
      "url":"https://wikipedia.org/wiki/Whale_watching"
-  },
+  }
 ]
