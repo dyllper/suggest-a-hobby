@@ -256,10 +256,6 @@ const hobbies = [
      "url":"https://wikipedia.org/wiki/Home_improvement"
   },
   {
-     "name":"Homebrewing",
-     "url":"https://wikipedia.org/wiki/Homebrewing"
-  },
-  {
      "name":"Houseplant care",
      "url":"https://wikipedia.org/wiki/Houseplant_care"
   },
